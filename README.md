@@ -4,7 +4,6 @@
 ## 📌 Project Overview
 
 This project is a Natural Language Processing (NLP) based machine learning model that classifies emails as **Spam** or **Not Spam (Ham)**.
-
 It uses text preprocessing techniques and supervised learning algorithms to detect unwanted emails and improve email filtering systems.
 
 ---
