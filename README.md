@@ -1,6 +1,5 @@
 ```markdown
 # 📧 Spam and Non-Spam Email Classification using NLP
-
 ---
 
 ## 📌 Project Overview
